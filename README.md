@@ -1,6 +1,6 @@
 💫 About Me:
 
-👋 Hi, I'm a Web Developer who enjoys creating clean and scalable applications.<br><br>🔭 I’m currently working on full-stack web projects<br>👯 I’m looking to collaborate on React / Node.js / Open-source projects<br>🤝 I’m looking for help with backend optimization, deployment, and scaling<br>🌱 I’m currently learning React, APIs, Databases, and Cloud fundamentals<br>☁️ Exploring Cloud & DevOps tools like AWS / Azure / Google Cloud.<br>💬 Ask me about HTML, CSS, JavaScript, Git, React, or deployment workflows<br>⚡ Fun fact: I can spend hours perfecting UI details 🎨<br>
+👋 Hi, I'm a Web Developer who enjoys creating clean and scalable applications.<br><br>🔭 I’m currently working on full-stack web projects<br>👯 I’m looking to collaborate on React / Node.js / Open-source projects<br>🤝 I’m looking for help with backend optimization, deployment, and scaling<br>🌱 I’m currently learning React, APIs, Databases, and Cloud fundamentals<br>☁️ Exploring Cloud & DevOps tools like AWS / Azure / Google Cloud<br>💬 Ask me about HTML, CSS, JavaScript, Git, React, or deployment workflows<br>⚡ Fun fact: I can spend hours perfecting UI details 🎨<br>
 
 
 ## 🌐 Socials:
